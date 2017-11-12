@@ -1,0 +1,7 @@
+SETUP
+
+-> Window -> Asset Store
+-> Install SteamVR
+-> Import all
+-> add CameraRig and SteamVR
+
